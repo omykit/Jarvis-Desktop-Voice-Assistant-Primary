@@ -1,0 +1,8 @@
+pygame==2.6.1
+pyttsx3==2.99
+SpeechRecognition==3.16.0
+vosk==0.3.45
+openai==2.32.0
+piper-tts==1.4.2
+audioop-lts==0.2.2
+PyAudio==0.2.14
