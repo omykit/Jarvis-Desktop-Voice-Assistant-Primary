@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+memory.json
+jarvis_config.json
+*.log
+notes/
+vosk-model-*/
+voices/
