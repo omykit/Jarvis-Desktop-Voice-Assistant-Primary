@@ -56,7 +56,7 @@ STATUS_ERROR = "Attention Required"
 
 DEFAULT_CONFIG = {
     "assistant_name": "Jarvis",
-    "owner_name": "Omair",
+    "owner_name": "User_name",
     "workspace_dir": "",
     "voice": {
         "energy_threshold": 250,
@@ -68,14 +68,14 @@ DEFAULT_CONFIG = {
     },
     "ai": {
         "enabled": True,
-        "base_url": "http://localhost:11434/v1",
+        "base_url": "http://localhost:5000/v1",
         "model": "llama3",
         "api_key": "ollama",
         "api_key_env": "",
         "timeout_seconds": 30,
         "max_tokens": 80,
         "max_history_messages": 8,
-        "system_prompt": "You are Jarvis, Omair's personal local voice assistant. Be warm, direct, and useful. Use remembered facts and recent conversation when helpful. Answer naturally in one or two short sentences.",
+        "system_prompt": "You are Jarvis, User's personal local voice assistant. Be warm, direct, and useful. Use remembered facts and recent conversation when helpful. Answer naturally in one or two short sentences.",
     },
     "weather": {
         "openweather_api_key": "",
