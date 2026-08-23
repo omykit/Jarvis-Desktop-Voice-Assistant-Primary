@@ -95,6 +95,6 @@ See the full [project report]([https://docs.google.com/document/d/1HIkcicidkideL
 
 ## Author
 
-**Omair Ahmed Kittur** — [github.com/omair-kittur](https://github.com/omair-kittur) · [linkedin.com/in/omair-ahmed-kittur](https://linkedin.com/in/omair-ahmed-544ab62b1) · omairkittur2@gmail.com
+**Omair Ahmed Kittur** — [github.com/omair-kittur](https://github.com/omykit) · [linkedin.com/in/omair-ahmed-kittur](https://linkedin.com/in/omair-ahmed-544ab62b1) · omairkittur2@gmail.com
 
 Built as a final-year project, BCA (Artificial Intelligence), Jain University, 2026.
